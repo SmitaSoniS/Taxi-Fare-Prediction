@@ -1,2 +1,2 @@
 # Taxi-Fare-Prediction
-This case study is part of Google Advanced Data Analytics Specialization. 
+This project leverages machine learning to predict taxi fares based on ride details such as pickup and drop-off locations, distance, time of day, and passenger count. It includes an end-to-end workflow encompassing data preprocessing, exploratory analysis, feature engineering, model training, evaluation, and deployment. The final solution provides accurate fare estimates, demonstrating practical applications of data analytics and regression modeling.
